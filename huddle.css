@@ -106,7 +106,7 @@ section img{
     width: 70%;
 }
 
-section h1{
+section h1, section h2{
     font-size: 1.5em;
     font-family: 'Poppins', sans-serif;
 }
@@ -183,7 +183,7 @@ aside{
 } 
 
 
-aside h1{
+aside h2{
     font-family: 'Poppins', sans-serif;
     opacity: 90%;
     padding-bottom: 2em;
@@ -305,7 +305,7 @@ button, .information p:hover{
         line-height: 1.7em;
     }
 
-    section h1{
+    section h1, section h2{
         font-size: 1em;
         padding-bottom: 10px;
     }
